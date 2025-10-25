@@ -1,0 +1,21 @@
+1.Pet
+
+2.Intake (admission record)
+
+3.MedicalRecord
+
+4.Vaccination
+
+5.BehaviorNote
+
+6.Location (kennel, foster home)
+
+7.AdoptionApplication
+
+8.Adoption
+
+9.Person (adopter, staff, volunteer, foster) — polymorphic via roles
+
+10.Organization (partner rescues)
+
+11.Photo
