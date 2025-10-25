@@ -1,1 +1,21 @@
+#370 LAB PROJECT IDEA2
+Pet Adoption & Tracking System
 
+--->CONCEPT : 
+I. centralizes animal shelter operations: intake, medical history, foster placement, adoption matching, post-adoption follow-up, volunteer management and reporting
+II. support transactional operations (admissions, adoptions), recordkeeping (medical, vaccinations), search (pets by breed, age, status), and analytics (adoption rates, length-of-stay).
+
+--->functions : 
+i.maintain accurate pet records and histories
+ii.support adoption workflows and background checks
+iii.track volunteers, staff, and foster homes
+iv.provide easy querying for prospective adopters and staff
+
+--->features : 
+    ->Pet intake and intake reason tracking
+    ->Pet profiles: species, breed, sex, DOB/estimated DOB, size, temperament
+    ->Medical records: vaccinations, treatments, surgeries
+    ->Behavior/assessment notes and incident logs
+    ->Adoption workflow: applications, approvals, background checks, contracts, location
+    ->Volunteer/staff management and scheduling
+    ->Notifications and reminders (vaccines, follow-ups)
